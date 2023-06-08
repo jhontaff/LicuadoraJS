@@ -11,7 +11,7 @@
     transform: translate(-50%, -50%);
     width: 700px;
     height: 500px;
-    /* background-color: red; */
+    background-color: red;
     background-image: url("img/licuadoraOff.png");
     background-size: contain;
     background-position: center;
